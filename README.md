@@ -1,4 +1,3 @@
 # Test
 R3.14 - 19/09/24
-ALORS C EST PARTI LES AMIS ON VA FAIRE UN PETIT CODE HTML ET CSS TRES RAPIDE POUR FAIRE DU GITHAUB AVEC MICHELE
-J'ai tout modifié
+On crée un entrepôt dans le but d'apprendre à utiliser git et à optimiser son site à partir de google insights.
